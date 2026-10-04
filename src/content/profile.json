@@ -1,0 +1,333 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "avery-hart",
+  "name": {
+    "first": "Avery",
+    "last": "Hart",
+    "full": "Avery Hart",
+    "preferred": "Avery"
+  },
+  "tagline": "Three phases. One clean landing.",
+  "headline": "Texas Track & Field · Triple Jump & Long Jump",
+  "eventGroup": "jumps",
+  "events": [
+    "Triple jump",
+    "Long jump"
+  ],
+  "hometown": "Brookline, Massachusetts",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Philosophy",
+    "classYear": "Sophomore",
+    "gradDate": "Expected May 2029"
+  },
+  "contact": {
+    "email": "yrevahart@gmail.com"
+  },
+  "bio": {
+    "short": "Avery Hart is a triple and long jumper from Brookline, Massachusetts, who joined Texas after reaching the ACC final and the NCAA West First Round as a Cal freshman. A Philosophy major at UT Austin, she was a Project Manager Intern at Feniex Industries in 2026.",
+    "long": [
+      "Avery Hart is a triple and long jumper who joined Texas as a sophomore for 2026-27 after a strong freshman season at Cal. In 2026 she won the triple jump at the Jim Bush Legends Meet for her first collegiate title. She set personal bests in both jumps at the ACC Championships, 12.77m in the triple jump and 6.07m in the long jump, and reached the NCAA West First Round, where she jumped 12.90m with a tailwind. She arrived in college as an all-around jumper: a high school high jump record holder, a hurdler and a four-year New Balance Nationals competitor.",
+      "Hart grew up in Brookline, Massachusetts, and competed for Buckingham Browne & Nichols in Cambridge. There she was the 2025 NEPSAC Division 2 girls track MVP, a three-time league triple jump champion and a 2024 AAU indoor national champion in the high jump and triple jump. She also played varsity volleyball, earning All-ISL honors twice. After a 2021 season with few chances to train and compete, she reached her high jump goal the next spring. At Texas she majors in Philosophy.",
+      "A triple jump only works when three phases connect, and Hart brings that same sense of sequence to project work. As a Project Manager Intern at Feniex Industries in 2026, she supported coordination among the engineering, production and sales teams at the Austin maker of emergency-vehicle lighting, tracking schedules, organizing documentation and keeping work moving between groups. She pairs an athlete's daily routine with a philosopher's habit of asking why, and she earned All-ACC Academic honors while competing in two events as a freshman."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Triple jump best",
+      "value": "12.77m",
+      "note": "ACC Outdoor Championships, 2026"
+    },
+    {
+      "label": "Long jump best",
+      "value": "6.07m",
+      "note": "ACC Outdoor Championships, 2026"
+    },
+    {
+      "label": "New Balance Nationals Outdoor appearances",
+      "value": "4",
+      "note": "High school, 2022-2025"
+    },
+    {
+      "label": "ISL triple jump titles",
+      "value": "3x",
+      "note": "Buckingham Browne & Nichols, 2023-2025"
+    }
+  ],
+  "prs": [
+    {
+      "event": "Triple jump",
+      "mark": "12.77m",
+      "meet": "ACC Outdoor Championships",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "Triple jump (wind-aided)",
+      "mark": "12.90m",
+      "meet": "NCAA Division I West First Round",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "Long jump",
+      "mark": "6.07m",
+      "meet": "ACC Outdoor Championships",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "Triple jump",
+      "mark": "12.34m",
+      "meet": "Battle Born Invitational",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "Long jump",
+      "mark": "5.76m",
+      "meet": "New Mexico Collegiate Classic",
+      "year": "2026",
+      "indoor": true
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2022",
+      "title": "National-meet debut",
+      "detail": "Competed in the high jump and triple jump at New Balance Nationals Outdoor as a BB&N freshman, already holding the school high jump record."
+    },
+    {
+      "year": "2024",
+      "title": "AAU national champion",
+      "detail": "Won the high jump and triple jump at the AAU Indoor National Championships."
+    },
+    {
+      "year": "2025",
+      "title": "NEPSAC Division 2 MVP",
+      "detail": "Won her third straight ISL triple jump title, was named NEPSAC Division 2 MVP and placed eighth in the long jump at New Balance Nationals."
+    },
+    {
+      "year": "2026",
+      "title": "First collegiate title",
+      "detail": "Won the triple jump at the Jim Bush Legends Meet for Cal with 12.55m."
+    },
+    {
+      "year": "2026",
+      "title": "ACC finalist and NCAA regional qualifier",
+      "detail": "Set personal bests in both jumps at the ACC Championships and competed at the NCAA West First Round, then transferred to Texas for 2026-27."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported cross-functional project coordination at an Austin manufacturer of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "All-ACC Academic",
+      "year": "2026"
+    },
+    {
+      "title": "ACC Academic Honor Roll",
+      "year": "2026"
+    },
+    {
+      "title": "NEPSAC Girls Track & Field Division 2 MVP",
+      "year": "2025"
+    },
+    {
+      "title": "All-NEPSAC, Long Jump and Triple Jump",
+      "year": "2025"
+    },
+    {
+      "title": "ISL Triple Jump Champion (3x)",
+      "year": "2023-2025"
+    },
+    {
+      "title": "AAU Indoor National Champion, High Jump and Triple Jump",
+      "year": "2024"
+    },
+    {
+      "title": "All-ISL, Volleyball",
+      "year": "2023, 2024"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "[My 2021 goals], like clearing 5-feet-2 in the high jump, were finally able to be fulfilled this season, which felt great …",
+      "source": "The Vanguard (BB&N student newspaper)",
+      "date": "2022"
+    },
+    {
+      "quote": "Not only does she help athletes with their performance, but she also keeps in mind mental health and helps athletes with her one-on-one talks.",
+      "source": "The Vanguard (BB&N student newspaper), on her high school coach",
+      "date": "2022"
+    }
+  ],
+  "press": [
+    {
+      "title": "Cal athletes post top finishes in Southern California",
+      "outlet": "The Daily Californian",
+      "date": "2026-04-02",
+      "url": "https://www.dailycal.org/sports/track-and-field/cal-athletes-post-top-finishes-in-southern-california/article_561c0cf2-a469-437c-aa1b-b99b7e4e5fc4.html"
+    },
+    {
+      "title": "Bears Sweep Men's, Women's Shot Put At Drake Stadium",
+      "outlet": "Cal Athletics",
+      "date": "2026-03-28",
+      "url": "https://calbears.com/news/2026/3/28/track-field-bears-sweep-mens-womens-shot-put-at-drake-stadium.aspx"
+    },
+    {
+      "title": "Bears Add 2 Program Top 10s, 2 All-ACC Finishes",
+      "outlet": "Cal Athletics",
+      "date": "2026-05-16",
+      "url": "https://calbears.com/news/2026/5/16/track-field-bears-add-2-program-top-10s-2-all-acc-finishes"
+    },
+    {
+      "title": "Season Recap: Girls' Track and Field",
+      "outlet": "The Vanguard (BB&N)",
+      "date": "2022",
+      "url": "https://vanguard.bbns.org/1511/sports/girls-track-and-field/"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Versatility",
+      "detail": "She has competed in the high jump, long jump and triple jump at national meets, raced the 100m hurdles and played varsity volleyball."
+    },
+    {
+      "title": "Fast ramp-up",
+      "detail": "In her first college season she won a title, set personal bests at the ACC Championships and reached the NCAA West First Round."
+    },
+    {
+      "title": "Academic rigor",
+      "detail": "She studies Philosophy and earned All-ACC Academic honors as a freshman while competing in two events."
+    },
+    {
+      "title": "Persistence",
+      "detail": "After a disrupted 2021 season with few chances to compete, she came back the next spring and cleared the high jump goal she had set."
+    }
+  ],
+  "resume": {
+    "summary": "Philosophy student and NCAA Division I triple and long jumper with Project Manager Intern experience at Feniex Industries. Brings analytical thinking, clear writing and a record of fast improvement while balancing two sports, academics and travel. All-ACC Academic honoree.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Supported cross-functional projects linking engineering, assembly and sales at a company that designs, builds and tests emergency-vehicle lighting in Austin.",
+          "Built and maintained project schedules and task trackers, flagging dependencies and open questions for team leads.",
+          "Wrote and revised process documentation in clear, step-by-step language for production and support workflows.",
+          "Applied AI-assisted Claude workflows to research questions, structure documents and check work for clarity and accuracy."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's candidate, Philosophy",
+        "dates": "2026-present (expected May 2029)",
+        "details": []
+      },
+      {
+        "school": "University of California, Berkeley",
+        "degree": "Undergraduate coursework before transferring to Texas",
+        "dates": "2025-2026",
+        "details": [
+          "All-ACC Academic; ACC Academic Honor Roll (2026)"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Jumper (Triple Jump, Long Jump)",
+        "org": "NCAA Division I: University of Texas (2026-present); UC Berkeley (2025-26)",
+        "dates": "2025-present",
+        "bullets": [
+          "Won the triple jump at the 2026 Jim Bush Legends Meet for a first collegiate title (12.55m).",
+          "Set personal bests in the triple jump (12.77m) and long jump (6.07m) at the 2026 ACC Outdoor Championships; reached the triple jump final.",
+          "Competed at the 2026 NCAA West First Round as a freshman (12.90m wind-aided)."
+        ]
+      },
+      {
+        "role": "Jumper and Hurdler",
+        "org": "Buckingham Browne & Nichols School, Cambridge, MA",
+        "dates": "2021-2025",
+        "bullets": [
+          "Named 2025 NEPSAC Division 2 girls track & field MVP; All-NEPSAC in the long and triple jump.",
+          "Won three ISL triple jump titles (2023-25) and two NEPSTA Division 2 titles in both the long and triple jump.",
+          "Won 2024 AAU Indoor national titles (high jump, triple jump); four straight years at New Balance Nationals Outdoor."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling & Dependency Tracking",
+        "Stakeholder Communication",
+        "Process Documentation",
+        "Analytical Reasoning",
+        "Research & Writing",
+        "Structured Problem Solving"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "All-ACC Academic",
+        "year": "2026"
+      },
+      {
+        "title": "NEPSAC Girls Track & Field Division 2 MVP",
+        "year": "2025"
+      },
+      {
+        "title": "AAU Indoor National Champion, High Jump and Triple Jump",
+        "year": "2024"
+      },
+      {
+        "title": "ISL Triple Jump Champion (3x)",
+        "year": "2023-2025"
+      },
+      {
+        "title": "All-ISL, Volleyball",
+        "year": "2023, 2024"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "The triple jump only works when three phases connect, and Avery thinks the same way about a project: how each step sets up the next. She asks the right questions, then commits. That's a rare combination in an intern, and in a jumper.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.5,
+      "y": 0.431,
+      "zoom": 1.16
+    },
+    "portrait": "athlete.jpg",
+    "action": []
+  },
+  "photoCredits": [
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://avery-hart.vercel.app"
+  },
+  "seo": {
+    "title": "Avery Hart | Texas Track & Field · Project Management",
+    "description": "Avery Hart: Texas triple and long jumper from Brookline, Mass., Philosophy major and Project Manager Intern at Feniex Industries."
+  },
+  "noindex": true
+}
